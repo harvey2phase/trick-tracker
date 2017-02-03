@@ -23,7 +23,7 @@ Known bugs/to do list:
 - Implement edit and delete functionalities.
 - Fix star display issues on the table view.
 
-References:
 
+References:
 
 Apple Inc. (December 2016) Start Developing iOS Apps (Swift) [Source code]. https://developer.apple.com/library/content/referencelibrary/GettingStarted/DevelopiOSAppsSwift/index.html#//apple_ref/doc/uid/TP40015214-CH2-SW1
