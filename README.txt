@@ -22,7 +22,7 @@ Known bugs/to do list:
 - Implement the save and cancel buttons on the add scene.
 - Allow scenes to be accessed from the table view
 - Implement edit and delete functionalities.
-- Fix star display issues on the table view.
+- Fix star display issues on the table view (variable naming issues, perhaps).
 
 
 References:
