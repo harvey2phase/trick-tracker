@@ -18,7 +18,7 @@ So far, the app only has two scenes:
 2. The add scene, where users can select photos from the Photo Library to be displayed in the app.
 
 
-Known bugs/to do list:
+#### _Known bugs/to do list:_
 - Implement the save and cancel buttons on the add scene.
 - Allow scenes to be accessed from the table view
 - Implement edit and delete functionalities.
