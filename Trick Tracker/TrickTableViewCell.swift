@@ -5,13 +5,13 @@
 
 /*
 
-References:
+ References:
  
-    Title: Start Developing iOS Apps (Swift)
-    Author: Apple Inc.
-    Date: 2016-12-08
-    Type: Source code
-    Availability: https://developer.apple.com/library/content/referencelibrary/GettingStarted/DevelopiOSAppsSwift/index.html#//apple_ref/doc/uid/TP40015214-CH2-SW1
+ Title: Start Developing iOS Apps (Swift)
+ Author: Apple Inc.
+ Date: 2016-12-08
+ Type: Source code
+ Availability: https://developer.apple.com/library/content/referencelibrary/GettingStarted/DevelopiOSAppsSwift/index.html#//apple_ref/doc/uid/TP40015214-CH2-SW1
  
 */
 
