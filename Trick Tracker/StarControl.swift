@@ -21,16 +21,19 @@ import UIKit
 @IBDesignable class StarControl: UIStackView {
     
     //MARK: Properties
+    
     @IBInspectable var starSize: CGSize = CGSize(width: 44.0, height: 44.0) {
         didSet {
             setButtons()
         }
     }
+    
     @IBInspectable var starCount: Int = 5 {
         didSet {
             setButtons()
         }
     }
+    
     private var starButtons = [UIButton]()
     var rating = 0 {
         didSet {

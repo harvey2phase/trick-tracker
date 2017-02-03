@@ -25,6 +25,14 @@ class TrickTableViewController: UITableViewController {
         // Dispose of any resources that can be recreated.
     }
     
+    /*
+    //MARK: Actions
+    @IBAction func unwindToTrickList(sender: UIStoryboardSegue) {
+        if let sourceViewController = sender.sourceViewController as? TrickViewController, trick = sourceViewController.trick {
+            
+        }
+    }
+    */
     
     //MARK: Private Methods
     

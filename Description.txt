@@ -1,0 +1,15 @@
+Welcome to Trick Tracker! This is an app that I am designing and developing to help me keep track of my skateboarding progression. When completed, this app will be used to store my photos and ratings for my skateboarding photos. Please enjoy and give feedbacks at Harvey.W@dal.ca, if you would like.
+
+This is an incomplete implementation of the Trick Tracker.
+
+So far, the app has two scenes:
+
+   The table view, which is the entry view of the app, is designed to display tricks added by the user. Right now it can only display default entries, and the user cannot modify the entries.
+
+   The add scene, where users can select photos from the Photo Library to be displayed in the app.
+
+To do:
+
+   - Implement add, edit, and delete functionalities.
+   - Implement the cancel button on the add scene.
+   - Fix star display issues on the table view.
