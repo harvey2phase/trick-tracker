@@ -42,13 +42,13 @@ class TrickTableViewController: UITableViewController {
         let p2 = UIImage(named: "hardflip")
         let p3 = UIImage(named: "treflip")
         
-        guard let t1 = Trick(name: "Kickflip", picture: p1, starNum: 3) else {
+        guard let t1 = Trick(name: "Kickflip", picture: p1, starNum: 5) else {
             fatalError("Unable to instantiate trick1")
         }
         guard let t2 = Trick(name: "Hardflip", picture: p2, starNum: 5) else {
             fatalError("Unable to instantiate trick2")
         }
-        guard let t3 = Trick(name: "Treflip", picture: p3, starNum: 4) else {
+        guard let t3 = Trick(name: "Treflip", picture: p3, starNum: 5) else {
             fatalError("Unable to instantiate trick3")
         }
         
