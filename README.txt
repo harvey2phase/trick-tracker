@@ -1,4 +1,4 @@
-Welcome to Trick Tracker! This is an app that I am developing to help me keep track of my skateboarding progrssion. When completed, this app will be used to store my photos and ratings. Please enjoy and, if you would like, give feedbacks at Harvey.W@dal.ca
+Welcome to Trick Tracker! This is an app that I am developing to help me keep track of my skateboarding progrssion. As a skateboarder, I've always wanted something to organise and keep track of my tricks. When completed, this app will be used to store and display my photos and ratings. Please enjoy and, if you would like, give feedbacks at Harvey.W@dal.ca
 
 *This is an incomplete implementation of Trick Tracker*
 
