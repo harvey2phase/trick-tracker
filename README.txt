@@ -10,6 +10,7 @@ Instructions on testing the app:
 - Click the plus (+) button on the top right corner to access the add scene.
 - Click anywhere inside the "No Photo Selected" box to add photos from Photos.
 - Click on any star to fill all stars (inclusive) before it.
+- Be sure to check out the screenshots in the Screenshots folder!
 
 
 So far, the app only has two scenes:
