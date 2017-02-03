@@ -27,4 +27,4 @@ Known bugs/to do list:
 
 References:
 
-Apple Inc. (December 2016) Start Developing iOS Apps (Swift) [Source code]. https://developer.apple.com/library/content/referencelibrary/GettingStarted/DevelopiOSAppsSwift/index.html#//apple_ref/doc/uid/TP40015214-CH2-SW1
+Apple Inc. (December 2016) Start Developing iOS Apps (Swift) [Photos, Source code]. https://developer.apple.com/library/content/referencelibrary/GettingStarted/DevelopiOSAppsSwift/index.html#//apple_ref/doc/uid/TP40015214-CH2-SW1
