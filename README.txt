@@ -21,4 +21,8 @@ Known bugs/to do list:
 - Implement the save and cancel buttons on the add scene.
 - Allow scenes to be accessed from the table view
 - Implement edit and delete functionalities.
-- Fix star display issues on the table view. 
+- Fix star display issues on the table view.
+
+References:
+
+Apple Inc. (December 2016) Start Developing iOS Apps (Swift) [Source code]. https://developer.apple.com/library/content/referencelibrary/GettingStarted/DevelopiOSAppsSwift/index.html#//apple_ref/doc/uid/TP40015214-CH2-SW1
