@@ -4,7 +4,7 @@ Please enjoy and, if you would like, give feedbacks at Harvey.W@dal.ca
 
 *This is an incomplete implementation of Trick Tracker*
 
-Instructions on testing the app:
+H5 Instructions on testing the app:
 - Please run the app using Xcode in Simulator or on an iOS device (this app should be optimized for iPads).
 - The entry view is the table view.
 - Click the plus (+) button on the top right corner to access the add scene.
