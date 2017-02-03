@@ -11,14 +11,11 @@ Instructions on testing the app:
 
 
 So far, the app only has two scenes:
-
-   The table view, which is the entry view of the app, is designed to display tricks added by the user. Right now it can only display default entries, and the user cannot modify the entries.
-
-   The add scene, where users can select photos from the Photo Library to be displayed in the app.
+1. The table view, which is the entry view of the app, is designed to display tricks added by the user. Right now it can only display default entries, and the user cannot modify the entries.
+2. The add scene, where users can select photos from the Photo Library to be displayed in the app.
 
 
 Known bugs/to do list:
-
 - Implement add, edit, and delete functionalities.
 - Implement the cancel button on the add scene.
 - Fix star display issues on the table view. 
