@@ -116,7 +116,7 @@ class TrickTableViewController: UITableViewController {
             }
             
             guard let selectedTrickCell = sender as? TrickTableViewCell else {
-                fatalError("Unexpected sender: \(sender)")
+                fatalError("Unexpected sender: \(String(describing: sender))")
             }
             
             guard let indexPath = tableView.indexPath(for: selectedTrickCell) else {
@@ -127,7 +127,7 @@ class TrickTableViewController: UITableViewController {
             trickDetailViewController.trick = selectedTrick
             
         default:
-            fatalError("Unexpected Segue Identifier; \(segue.identifier)")
+            fatalError("Unexpected Segue Identifier; \(String(describing: segue.identifier))")
         }
     }
     
@@ -157,8 +157,8 @@ class TrickTableViewController: UITableViewController {
     
     
     
-    
     //MARK: Private Methods
+
     private func loadSamepleTricks() {
         
         let photo1 = UIImage(named: "Back 180")
