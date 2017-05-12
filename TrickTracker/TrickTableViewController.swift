@@ -158,7 +158,6 @@ class TrickTableViewController: UITableViewController {
     
     
     //MARK: Private Methods
-
     private func loadSamepleTricks() {
         
         let photo1 = UIImage(named: "Back 180")
@@ -169,7 +168,7 @@ class TrickTableViewController: UITableViewController {
         
         tricks += [trick1]
     }
-
+    
     private func saveTricks📁() {
         let isSuccessfulSace👍 = NSKeyedArchiver.archiveRootObject(tricks, toFile: Trick.ArchiveURL📁.path)
         
