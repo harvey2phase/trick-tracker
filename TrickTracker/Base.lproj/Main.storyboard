@@ -94,7 +94,7 @@
                                         <textInputTraits key="textInputTraits" returnKeyType="done" enablesReturnKeyAutomatically="YES"/>
                                     </textField>
                                     <imageView contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" placeholderIntrinsicWidth="320" placeholderIntrinsicHeight="320" image="defaultPhoto" translatesAutoresizingMaskIntoConstraints="NO" id="Sj4-aH-gSH">
-                                        <rect key="frame" x="15" y="44" width="314" height="314"/>
+                                        <rect key="frame" x="12" y="44" width="320" height="320"/>
                                         <gestureRecognizers/>
                                         <constraints>
                                             <constraint firstAttribute="width" secondItem="Sj4-aH-gSH" secondAttribute="height" multiplier="1:1" id="7jn-bo-7Sn"/>
@@ -104,7 +104,7 @@
                                         </connections>
                                     </imageView>
                                     <stackView opaque="NO" contentMode="scaleToFill" spacing="8" translatesAutoresizingMaskIntoConstraints="NO" id="jhR-4j-OK3" customClass="RatingControl" customModule="TrickTracker" customModuleProvider="target">
-                                        <rect key="frame" x="46" y="366" width="252" height="50"/>
+                                        <rect key="frame" x="46" y="372" width="252" height="44"/>
                                     </stackView>
                                 </subviews>
                                 <constraints>
